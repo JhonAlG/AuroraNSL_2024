@@ -1,6 +1,8 @@
-References potentially used in this grant:
+References potentially used in this grant (sorted by topic):
 
-Logic Tensor Networks (LTN):
+----------------------------------------
+----------------------------------------
+Logic Tensor Networks (LTN)
 
 ----------------------------------------
 Basics of LTN, friends and smokers example:
@@ -30,9 +32,9 @@ https://github.com/logictensornetworks/logictensornetworks
 Friends and smokers example:
 https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/smokes_friends_cancer
 
------------------------------------------------------------
-
-Aurorasaurus:
+----------------------------------------
+----------------------------------------
+Aurorasaurus
 
 --------------------------------------
 Aurorasaurus website:
@@ -48,12 +50,11 @@ First published: 20 November 2018 https://doi.org/10.1029/2018EA000454
 
 Kosar, B. C., MacDonald, E. A., Case, N. A., & Heavner, M. (2018). Aurorasaurus Real-Time Citizen Science Aurora Data (Version v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.1255196
 
--------------------------------------
-
-OVATION Prime model:
+----------------------------------------
+----------------------------------------
+OVATION Prime model
 
 -----------------------------------
-
 Runs-on-Request for OVATION Prime: (OP-13 version)
 
 https://ccmc.gsfc.nasa.gov/models/Ovation-Prime~2.3/
