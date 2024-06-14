@@ -9,7 +9,7 @@
 ----------------------------------------
 Basics of LTN, friends and smokers example:
 
-Luciano Serafini, Artur d'Avila Garcez,
+* Luciano Serafini, Artur d'Avila Garcez,
 Logic Tensor Networks: Deep Learning and Logical Reasoning from Data and Knowledge,
 https://doi.org/10.48550/arXiv.1606.04422
 [Submitted on 14 Jun 2016 (v1), last revised 7 Jul 2016 (this version, v2)]
