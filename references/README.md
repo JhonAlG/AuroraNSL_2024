@@ -29,10 +29,10 @@ LTN code repository on GitHub:
 * https://github.com/logictensornetworks/logictensornetworks
 
 * Friends and smokers example:
-https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/smokes_friends_cancer
+** https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/smokes_friends_cancer
 
 * Binary classification example (Can be used for Aurorasaurus and OP-13 data?):
-https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/binary_classification
+** https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/binary_classification
 
 ----------------------------------------
 ----------------------------------------
