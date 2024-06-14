@@ -17,7 +17,7 @@ https://doi.org/10.48550/arXiv.1606.04422
 ----------------------------------------------
 Contains link to LTN code on GitHub:
 
-Samy Badreddine, Artur d'Avila Garcez, Luciano Serafini, Michael Spranger,
+* Samy Badreddine, Artur d'Avila Garcez, Luciano Serafini, Michael Spranger,
 Logic Tensor Networks,
 Artificial Intelligence,
 Volume 303, February 2022, 103649,
@@ -42,16 +42,16 @@ LTN code repository on GitHub:
 --------------------------------------
 Aurorasaurus website:
 
-https://www.aurorasaurus.org/
+* https://www.aurorasaurus.org/
 
 --------------------------------------
 Aurorasaurus data from 2015-2016:
 
-B. C. Kosar, Elizabeth A. MacDonald, Nathan A. Case, Matthew Heavner,
+* B. C. Kosar, Elizabeth A. MacDonald, Nathan A. Case, Matthew Heavner,
 Aurorasaurus Database of Real-Time, Crowd-Sourced Aurora Data for Space Weather Research,
 First published: 20 November 2018 https://doi.org/10.1029/2018EA000454
 
-Kosar, B. C., MacDonald, E. A., Case, N. A., & Heavner, M. (2018). 
+* Kosar, B. C., MacDonald, E. A., Case, N. A., & Heavner, M. (2018). 
 Aurorasaurus Real-Time Citizen Science Aurora Data (Version v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.1255196
 
 ----------------------------------------
@@ -62,17 +62,17 @@ Aurorasaurus Real-Time Citizen Science Aurora Data (Version v1.0) [Data set]. Ze
 -----------------------------------
 Runs-on-Request for OVATION Prime: (OP-13 version?)
 
-https://ccmc.gsfc.nasa.gov/models/Ovation-Prime~2.3/
+* https://ccmc.gsfc.nasa.gov/models/Ovation-Prime~2.3/
 
 ----------------------------------------
 Code for OVATION Prime model in IDL (used by Runs-on-Request above): (OP-13 version?)
 
-https://sourceforge.net/projects/ovation-prime/
+* https://sourceforge.net/projects/ovation-prime/
 
 ----------------------------------------------
 Runs-on-Request for St. Patrick's Day solar storm 2015
 
-https://ccmc.gsfc.nasa.gov/results/viewrun.php?runnumber=Erik_Mayer_032324_IT_1
+* https://ccmc.gsfc.nasa.gov/results/viewrun.php?runnumber=Erik_Mayer_032324_IT_1
 
 Summary of Submission
 Title/Introduction: St. Patrick solar storm 2015
@@ -109,7 +109,7 @@ From email:
 ## Percentage probability of visible aurora and view lines
 
 ---------------------------------------------------------
-Case, N. A., MacDonald, E. A., & Viereck, R. (2016). 
+* Case, N. A., MacDonald, E. A., & Viereck, R. (2016). 
 Using citizen science reports to define the equatorial extent of auroral visibility. 
 Space Weather, 14, 198–209. 
 https://doi.org/10.1002/2015SW001320
@@ -120,7 +120,7 @@ https://doi.org/10.1002/2015SW001320
 ## Using Aurorasaurus data to improve OP-13 model
 
 ---------------------------------------------------------
-N. A. Case, D. Kingman, E. A. MacDonald,
+* N. A. Case, D. Kingman, E. A. MacDonald,
 A real-time hybrid aurora alert system: Combining citizen science reports with an auroral oval model, 
 First published: 15 June 2016 https://doi.org/10.1002/2016EA000167
 https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016EA000167
@@ -134,5 +134,5 @@ https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016EA000167
 
 Poster presentation for 2024 PSU Research Colloquium at Pittsburg State University:
 
-Estevan Hernandez, Jacob Luton,  Ty Woolven, and Dr. Erik Mayer, Pittsburg State University, Dr. Tao Wu, Butler Community College, Dr. Hongsheng He, University of Alabama, and Dr. Elizabeth MacDonald, Goddard Space Flight Center , "Predicting aurora borealis visibility combining satellite and citizen science data with artificial intelligence," Poster presentation, 2024 PSU Research Colloquium, Pittsburg, KS, April 17, 2024.
+* Estevan Hernandez, Jacob Luton,  Ty Woolven, and Dr. Erik Mayer, Pittsburg State University, Dr. Tao Wu, Butler Community College, Dr. Hongsheng He, University of Alabama, and Dr. Elizabeth MacDonald, Goddard Space Flight Center , "Predicting aurora borealis visibility combining satellite and citizen science data with artificial intelligence," Poster presentation, 2024 PSU Research Colloquium, Pittsburg, KS, April 17, 2024.
 https://github.com/ErikMayerPSU/AuroraNSL_2024/blob/main/publications/neurosymbolic_ai_poster%202024_0408_p0654.pdf
