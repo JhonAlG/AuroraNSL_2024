@@ -25,9 +25,8 @@ https://doi.org/10.1016/j.artint.2021.103649
 https://www.sciencedirect.com/science/article/abs/pii/S0004370221002009
 
 ---------------------------------------------------
-* LTN code on GitHub:
-
-* https://github.com/logictensornetworks/logictensornetworks
+* LTN code repository on GitHub:
+https://github.com/logictensornetworks/logictensornetworks
 
 * Friends and smokers example:
 https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/smokes_friends_cancer
