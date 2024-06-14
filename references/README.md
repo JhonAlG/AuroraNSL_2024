@@ -9,18 +9,18 @@
 ----------------------------------------
 Basics of LTN, friends and smokers example:
 
-Luciano Serafini, Artur d'Avila Garcez
-Logic Tensor Networks: Deep Learning and Logical Reasoning from Data and Knowledge
+Luciano Serafini, Artur d'Avila Garcez,
+Logic Tensor Networks: Deep Learning and Logical Reasoning from Data and Knowledge,
 https://doi.org/10.48550/arXiv.1606.04422
 [Submitted on 14 Jun 2016 (v1), last revised 7 Jul 2016 (this version, v2)]
 
 ----------------------------------------------
 Contains link to LTN code on GitHub:
 
-Samy Badreddine, Artur d'Avila Garcez, Luciano Serafini, Michael Spranger
-Logic Tensor Networks
-Artificial Intelligence
-Volume 303, February 2022, 103649
+Samy Badreddine, Artur d'Avila Garcez, Luciano Serafini, Michael Spranger,
+Logic Tensor Networks,
+Artificial Intelligence,
+Volume 303, February 2022, 103649,
 https://doi.org/10.1016/j.artint.2021.103649
 https://www.sciencedirect.com/science/article/abs/pii/S0004370221002009
 
@@ -45,8 +45,8 @@ https://www.aurorasaurus.org/
 --------------------------------------
 Aurorasaurus data from 2015-2016:
 
-B. C. Kosar, Elizabeth A. MacDonald, Nathan A. Case, Matthew Heavner
-Aurorasaurus Database of Real-Time, Crowd-Sourced Aurora Data for Space Weather Research
+B. C. Kosar, Elizabeth A. MacDonald, Nathan A. Case, Matthew Heavner,
+Aurorasaurus Database of Real-Time, Crowd-Sourced Aurora Data for Space Weather Research,
 First published: 20 November 2018 https://doi.org/10.1029/2018EA000454
 
 Kosar, B. C., MacDonald, E. A., Case, N. A., & Heavner, M. (2018). 
@@ -119,7 +119,7 @@ https://doi.org/10.1002/2015SW001320
 
 ---------------------------------------------------------
 
-Poster presentation for 2024 PSU Research Colloquium at Pittsburg State University in Pittsburg, KS, April 17, 2024:
+Poster presentation for 2024 PSU Research Colloquium at Pittsburg State University:
 
 Estevan Hernandez, Jacob Luton,  Ty Woolven, and Dr. Erik Mayer, Pittsburg State University, Dr. Tao Wu, Butler Community College, Dr. Hongsheng He, University of Alabama, and Dr. Elizabeth MacDonald, Goddard Space Flight Center , "Predicting aurora borealis visibility combining satellite and citizen science data with artificial intelligence," Poster presentation, 2024 PSU Research Colloquium, Pittsburg, KS, April 17, 2024.
 https://github.com/ErikMayerPSU/AuroraNSL_2024/blob/main/publications/neurosymbolic_ai_poster%202024_0408_p0654.pdf
