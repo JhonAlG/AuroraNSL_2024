@@ -1,6 +1,6 @@
 # Curriculum prepared for this grant. 
 
-## Delivered in EET 549 and EET 745 in the Spring 2024 semester at Pittsburg State University.
+## Delivered in EET 549 and EET 745 in the Spring 2024 semester at Pittsburg State University:
 
 Lecture: Estevan Hernandez, Fundamentals of Mathematical Logic, April 18, 2024.
 
