@@ -1,8 +1,8 @@
 
 ## References (sorted by topic)
 
-### Logic Tensor Networks (LTN)
 
+### Logic Tensor Networks (LTN)
 
 #### Basics of LTN, friends and smokers example:
 
@@ -22,6 +22,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0004370221002009
 
 
 #### LTN code repository on GitHub:
+
 * https://github.com/logictensornetworks/logictensornetworks
 
 * Friends and smokers example:
@@ -30,17 +31,15 @@ https://www.sciencedirect.com/science/article/abs/pii/S0004370221002009
 * Binary classification example (Can be used for Aurorasaurus and OP-13 data?):
   https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/binary_classification
 
-----------------------------------------
-----------------------------------------
+
 
 ### Aurorasaurus
 
---------------------------------------
-#### Aurorasaurus website:
 
+#### Aurorasaurus website:
 * https://www.aurorasaurus.org/
 
---------------------------------------
+
 #### Aurorasaurus data from 2015-2016:
 
 * B. C. Kosar, Elizabeth A. MacDonald, Nathan A. Case, Matthew Heavner,
@@ -50,22 +49,17 @@ First published: 20 November 2018 https://doi.org/10.1029/2018EA000454
 * Kosar, B. C., MacDonald, E. A., Case, N. A., & Heavner, M. (2018). 
 Aurorasaurus Real-Time Citizen Science Aurora Data (Version v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.1255196
 
-----------------------------------------
-----------------------------------------
 
 ### OVATION Prime model
 
------------------------------------
 #### Runs-on-Request for OVATION Prime: (OP-13 version?)
 
 * https://ccmc.gsfc.nasa.gov/models/Ovation-Prime~2.3/
 
-----------------------------------------
 #### Code for OVATION Prime model in IDL (used by Runs-on-Request above): (OP-13 version?)
 
 * https://sourceforge.net/projects/ovation-prime/
 
-----------------------------------------------
 #### Runs-on-Request for St. Patrick's Day solar storm 2015
 
 * https://ccmc.gsfc.nasa.gov/results/viewrun.php?runnumber=Erik_Mayer_032324_IT_1
@@ -99,34 +93,24 @@ From email:
 
 (**Note: See the poster presentation for this grant on how this was cited.)
 
----------------------------------------------------------
----------------------------------------------------------
 
 ### Percentage probability of visible aurora and view lines
 
----------------------------------------------------------
 * Case, N. A., MacDonald, E. A., & Viereck, R. (2016). 
 Using citizen science reports to define the equatorial extent of auroral visibility. 
 Space Weather, 14, 198–209. 
 https://doi.org/10.1002/2015SW001320
 
----------------------------------------------------------
----------------------------------------------------------
 
 ### Using Aurorasaurus data to improve OP-13 model
 
----------------------------------------------------------
 * N. A. Case, D. Kingman, E. A. MacDonald,
 A real-time hybrid aurora alert system: Combining citizen science reports with an auroral oval model, 
 First published: 15 June 2016 https://doi.org/10.1002/2016EA000167
 https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016EA000167
 
----------------------------------------------------------
----------------------------------------------------------
 
 ### Publications as a result of this grant
-
----------------------------------------------------------
 
 #### Poster presentation for 2024 PSU Research Colloquium at Pittsburg State University:
 
