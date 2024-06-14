@@ -1,5 +1,5 @@
 
-# References potentially used in this grant (sorted by topic)
+# References (sorted by topic)
 
 ----------------------------------------
 ----------------------------------------
