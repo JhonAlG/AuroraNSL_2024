@@ -112,7 +112,7 @@ https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016EA000167
 
 ### Comparison of citizen science aurora data with global auroral boundaries derived from DMSP far ultraviolet data and empirical models
 
-* Burcu C. Kosar, Elizabeth A. MacDonald, Nathan A. Case, Yongliang Zhang, Elizabeth J. Mitchell, Rodney Viereck, A case study comparing citizen science aurora data with global auroral boundaries derived from satellite imagery and empirical models, https://www.sciencedirect.com/science/article/pii/S1364682617303413
+* Burcu C. Kosar, Elizabeth A. MacDonald, Nathan A. Case, Yongliang Zhang, Elizabeth J. Mitchell, Rodney Viereck, A case study comparing citizen science aurora data with global auroral boundaries derived from satellite imagery and empirical models, https://doi.org/10.1016/j.jastp.2018.05.006 https://www.sciencedirect.com/science/article/pii/S1364682617303413
 
 
 ### Publications as a result of this grant
