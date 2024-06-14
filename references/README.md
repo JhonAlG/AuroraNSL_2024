@@ -101,7 +101,7 @@ From email:
 
 "Thank you for your interest in CCMC."
 
-**Note: See the poster presentation for this grant on how this was cited.
+(**Note: See the poster presentation for this grant on how this was cited.)
 
 ---------------------------------------------------------
 ---------------------------------------------------------
