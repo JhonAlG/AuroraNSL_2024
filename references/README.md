@@ -1,13 +1,13 @@
 
-# References (sorted by topic)
+## References (sorted by topic)
 
 ----------------------------------------
 ----------------------------------------
 
-## Logic Tensor Networks (LTN)
+### Logic Tensor Networks (LTN)
 
 ----------------------------------------
-Basics of LTN, friends and smokers example:
+#### Basics of LTN, friends and smokers example:
 
 * Luciano Serafini, Artur d'Avila Garcez,
 Logic Tensor Networks: Deep Learning and Logical Reasoning from Data and Knowledge,
@@ -15,7 +15,7 @@ https://doi.org/10.48550/arXiv.1606.04422
 [Submitted on 14 Jun 2016 (v1), last revised 7 Jul 2016 (this version, v2)]
 
 ----------------------------------------------
-Contains link to LTN code on GitHub:
+#### Contains link to LTN code on GitHub:
 
 * Samy Badreddine, Artur d'Avila Garcez, Luciano Serafini, Michael Spranger,
 Logic Tensor Networks,
@@ -25,7 +25,7 @@ https://doi.org/10.1016/j.artint.2021.103649
 https://www.sciencedirect.com/science/article/abs/pii/S0004370221002009
 
 ---------------------------------------------------
-LTN code repository on GitHub:
+#### LTN code repository on GitHub:
 * https://github.com/logictensornetworks/logictensornetworks
 
 * Friends and smokers example:
@@ -40,12 +40,12 @@ LTN code repository on GitHub:
 ## Aurorasaurus
 
 --------------------------------------
-Aurorasaurus website:
+#### Aurorasaurus website:
 
 * https://www.aurorasaurus.org/
 
 --------------------------------------
-Aurorasaurus data from 2015-2016:
+#### Aurorasaurus data from 2015-2016:
 
 * B. C. Kosar, Elizabeth A. MacDonald, Nathan A. Case, Matthew Heavner,
 Aurorasaurus Database of Real-Time, Crowd-Sourced Aurora Data for Space Weather Research,
