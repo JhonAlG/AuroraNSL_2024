@@ -11,7 +11,6 @@ Logic Tensor Networks: Deep Learning and Logical Reasoning from Data and Knowled
 https://doi.org/10.48550/arXiv.1606.04422
 [Submitted on 14 Jun 2016 (v1), last revised 7 Jul 2016 (this version, v2)]
 
-----------------------------------------------
 #### Contains link to LTN code on GitHub:
 
 * Samy Badreddine, Artur d'Avila Garcez, Luciano Serafini, Michael Spranger,
@@ -21,7 +20,7 @@ Volume 303, February 2022, 103649,
 https://doi.org/10.1016/j.artint.2021.103649
 https://www.sciencedirect.com/science/article/abs/pii/S0004370221002009
 
----------------------------------------------------
+
 #### LTN code repository on GitHub:
 * https://github.com/logictensornetworks/logictensornetworks
 
