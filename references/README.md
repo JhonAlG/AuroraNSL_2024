@@ -115,6 +115,14 @@ https://doi.org/10.1002/2015SW001320
 ---------------------------------------------------------
 ---------------------------------------------------------
 
+## Using Aurorasaurus data to improve OP-13 model
+
+---------------------------------------------------------
+A real-time hybrid aurora alert system: Combining citizen science reports with an auroral oval model, https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016EA000167
+
+---------------------------------------------------------
+---------------------------------------------------------
+
 ## Publications as a result of this grant
 
 ---------------------------------------------------------
