@@ -37,7 +37,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0004370221002009
 ----------------------------------------
 ----------------------------------------
 
-## Aurorasaurus
+### Aurorasaurus
 
 --------------------------------------
 #### Aurorasaurus website:
@@ -57,20 +57,20 @@ Aurorasaurus Real-Time Citizen Science Aurora Data (Version v1.0) [Data set]. Ze
 ----------------------------------------
 ----------------------------------------
 
-## OVATION Prime model
+### OVATION Prime model
 
 -----------------------------------
-Runs-on-Request for OVATION Prime: (OP-13 version?)
+#### Runs-on-Request for OVATION Prime: (OP-13 version?)
 
 * https://ccmc.gsfc.nasa.gov/models/Ovation-Prime~2.3/
 
 ----------------------------------------
-Code for OVATION Prime model in IDL (used by Runs-on-Request above): (OP-13 version?)
+#### Code for OVATION Prime model in IDL (used by Runs-on-Request above): (OP-13 version?)
 
 * https://sourceforge.net/projects/ovation-prime/
 
 ----------------------------------------------
-Runs-on-Request for St. Patrick's Day solar storm 2015
+#### Runs-on-Request for St. Patrick's Day solar storm 2015
 
 * https://ccmc.gsfc.nasa.gov/results/viewrun.php?runnumber=Erik_Mayer_032324_IT_1
 
@@ -106,7 +106,7 @@ From email:
 ---------------------------------------------------------
 ---------------------------------------------------------
 
-## Percentage probability of visible aurora and view lines
+### Percentage probability of visible aurora and view lines
 
 ---------------------------------------------------------
 * Case, N. A., MacDonald, E. A., & Viereck, R. (2016). 
@@ -117,7 +117,7 @@ https://doi.org/10.1002/2015SW001320
 ---------------------------------------------------------
 ---------------------------------------------------------
 
-## Using Aurorasaurus data to improve OP-13 model
+### Using Aurorasaurus data to improve OP-13 model
 
 ---------------------------------------------------------
 * N. A. Case, D. Kingman, E. A. MacDonald,
@@ -128,11 +128,11 @@ https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016EA000167
 ---------------------------------------------------------
 ---------------------------------------------------------
 
-## Publications as a result of this grant
+### Publications as a result of this grant
 
 ---------------------------------------------------------
 
-Poster presentation for 2024 PSU Research Colloquium at Pittsburg State University:
+#### Poster presentation for 2024 PSU Research Colloquium at Pittsburg State University:
 
 * Estevan Hernandez, Jacob Luton,  Ty Woolven, and Dr. Erik Mayer, Pittsburg State University, Dr. Tao Wu, Butler Community College, Dr. Hongsheng He, University of Alabama, and Dr. Elizabeth MacDonald, Goddard Space Flight Center , "Predicting aurora borealis visibility combining satellite and citizen science data with artificial intelligence," Poster presentation, 2024 PSU Research Colloquium, Pittsburg, KS, April 17, 2024.
 https://github.com/ErikMayerPSU/AuroraNSL_2024/blob/main/publications/neurosymbolic_ai_poster%202024_0408_p0654.pdf
