@@ -1,10 +1,10 @@
 
-References potentially used in this grant (sorted by topic)
+# References potentially used in this grant (sorted by topic)
 
 ----------------------------------------
 ----------------------------------------
 
-Logic Tensor Networks (LTN)
+## Logic Tensor Networks (LTN)
 
 ----------------------------------------
 Basics of LTN, friends and smokers example:
@@ -35,7 +35,7 @@ https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/
 ----------------------------------------
 ----------------------------------------
 
-Aurorasaurus
+## Aurorasaurus
 
 --------------------------------------
 Aurorasaurus website:
@@ -55,7 +55,7 @@ Aurorasaurus Real-Time Citizen Science Aurora Data (Version v1.0) [Data set]. Ze
 ----------------------------------------
 ----------------------------------------
 
-OVATION Prime model
+## OVATION Prime model
 
 -----------------------------------
 Runs-on-Request for OVATION Prime: (OP-13 version?)
@@ -104,7 +104,7 @@ From email:
 ---------------------------------------------------------
 ---------------------------------------------------------
 
-Percentage probability of visible aurora and view lines
+## Percentage probability of visible aurora and view lines
 
 ---------------------------------------------------------
 Case, N. A., MacDonald, E. A., & Viereck, R. (2016). 
@@ -115,7 +115,7 @@ https://doi.org/10.1002/2015SW001320
 ---------------------------------------------------------
 ---------------------------------------------------------
 
-Publications as a result of this grant
+## Publications as a result of this grant
 
 ---------------------------------------------------------
 
