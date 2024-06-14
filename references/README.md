@@ -25,14 +25,14 @@ https://doi.org/10.1016/j.artint.2021.103649
 https://www.sciencedirect.com/science/article/abs/pii/S0004370221002009
 
 ---------------------------------------------------
-*LTN code on GitHub:
+* LTN code on GitHub:
 
-*https://github.com/logictensornetworks/logictensornetworks
+* https://github.com/logictensornetworks/logictensornetworks
 
-*Friends and smokers example:
+* Friends and smokers example:
 https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/smokes_friends_cancer
 
-*Binary classification example (Can be used for Aurorasaurus and OP-13 data?):
+* Binary classification example (Can be used for Aurorasaurus and OP-13 data?):
 https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/binary_classification
 
 ----------------------------------------
