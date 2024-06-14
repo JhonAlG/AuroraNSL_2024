@@ -1,10 +1,9 @@
 
 ## References (sorted by topic)
 
-----------------------------------------
 ### Logic Tensor Networks (LTN)
 
-----------------------------------------
+
 #### Basics of LTN, friends and smokers example:
 
 * Luciano Serafini, Artur d'Avila Garcez,
