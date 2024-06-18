@@ -25,7 +25,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0004370221002009
 
 * https://github.com/logictensornetworks/logictensornetworks
 
-* Friends and smokers example (used in curriculum https://github.com/ErikMayerPSU/AuroraNSL_2024/tree/main/curriculum):
+* Friends and smokers example (Used in curriculum. See https://github.com/ErikMayerPSU/AuroraNSL_2024/tree/main/curriculum):
   https://github.com/logictensornetworks/logictensornetworks/tree/master/examples/smokes_friends_cancer
 
 * Binary classification example (Can be used for Aurorasaurus and OP-13 data?):
