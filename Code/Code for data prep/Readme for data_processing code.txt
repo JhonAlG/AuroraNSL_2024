@@ -1,7 +1,7 @@
 # Data Processing Script
 
 ## Overview
-This script processes IMF (data from ) and eFlux data files, combines them based on matching date and time information, and exports the combined data into an Excel file.
+This script processes IMF (data of solarwind source, OMNI) and eFlux data files, combines them based on matching date and time information, and exports the combined data into an Excel file.
 
 ## Requirements
 - Python 3.9
