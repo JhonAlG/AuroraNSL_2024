@@ -38,7 +38,7 @@ def read_eflux_file(file:str):
 
 def read_IMF_file():
     #read IMF data
-    file_path_IMF = r'C:\Users\might\OneDrive - Butler Community College\Butler\Research\NASA project\SSUSI\Data\data_prep\20150317_IMF.txt'
+    file_path_IMF = r"G:\My Drive\Butler\Research\NASA project\GitHub\AuroraNSL_2024\AuroraNSL_2024\data\St patrick's day 2015\20150317_IMF.txt"
 
     # Read the file into a DataFrame without headers
     df_IMF = pd.read_csv(file_path_IMF, header=None, delim_whitespace=True)
@@ -117,8 +117,8 @@ hour = 0
 minute = 0
 
 #start to read eFlux files
-file_dir_eFlux = r"C:\Users\might\OneDrive - Butler Community College\Butler\Research\NASA project\SSUSI\Data\data_prep\Eflux"
-file_dir_main = r"C:\Users\might\OneDrive - Butler Community College\Butler\Research\NASA project\SSUSI\Data\data_prep"
+file_dir_eFlux = r"G:\My Drive\Butler\Research\NASA project\GitHub\AuroraNSL_2024\AuroraNSL_2024\data\St patrick's day 2015\Eflux"
+file_dir_main = r"G:\My Drive\Butler\Research\NASA project\GitHub\AuroraNSL_2024\AuroraNSL_2024\data\St patrick's day 2015"
 
 column_headers = [
     "Year", "Month", "Day", "Hour", "Min", "Sec", "Msec",
@@ -174,5 +174,5 @@ for file in eflux_files:
         
 
 # Save the workbook to a file
-wb_combined.save(fr"{file_dir_main}\test.xlsx")
+wb_combined.save(fr"{file_dir_main}\combined data.xlsx")
 #wb_eflux.save(fr"{file_dir_main}\eflux_test.xlsx")
